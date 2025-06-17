@@ -106,7 +106,7 @@ function generateEvents() {
       locationId: "2",
       curator: "Jonas B.",
       artworkIds: [
-        "KMSst64",
+        "KMS3583",
         "KMSst641",
         "KMSst66",
         "KMSst68",
@@ -124,7 +124,7 @@ function generateEvents() {
       date: "2025-05-12",
       locationId: "5",
       curator: "Anna K.",
-      artworkIds: ["KMSst64"],
+      artworkIds: ["KMS3841"],
     },
     {
       id: "ba707e0c-f8b4-424b-805f-f75e8b254e6e",
@@ -134,7 +134,7 @@ function generateEvents() {
       date: "2025-05-07",
       locationId: "2",
       curator: "Jonas B.",
-      artworkIds: ["KMSst734", "KMSst79"],
+      artworkIds: ["KMS2032", "KMSst79"],
     },
     {
       id: "4b006b04-9690-49f0-9ded-bf1758564d50",
@@ -144,7 +144,7 @@ function generateEvents() {
       date: "2025-05-12",
       locationId: "8",
       curator: "Jonas B.",
-      artworkIds: ["KMSst66", "KMSst641", "KMSst7"],
+      artworkIds: ["KKS11872", "KMSst641", "KMSst7"],
     },
     {
       id: "6ad07ab8-6468-411e-976c-0ebb63841b24",
@@ -154,7 +154,7 @@ function generateEvents() {
       date: "2025-05-13",
       locationId: "5",
       curator: "Mia M.",
-      artworkIds: ["KMSst68", "KMSst736"],
+      artworkIds: ["KMSr80", "KMSst736"],
     },
     {
       id: "fceebc62-e620-43c4-b8e9-4dbee163282e",
@@ -164,7 +164,7 @@ function generateEvents() {
       date: "2025-05-06",
       locationId: "3",
       curator: "Anna K.",
-      artworkIds: ["KMSst734", "KMSst64"],
+      artworkIds: ["KMSr170", "KMSst64"],
     },
     {
       id: "82a0a6d4-a22b-4d3d-974b-f9e28078985a",
@@ -174,7 +174,7 @@ function generateEvents() {
       date: "2025-05-11",
       locationId: "10",
       curator: "Anna K.",
-      artworkIds: ["KMSst79", "KMSst66"],
+      artworkIds: ["KMS871", "KMSst66"],
     },
     {
       id: "7f90db5c-78d2-41f6-bcbe-f76b7b3b2817",
@@ -184,7 +184,7 @@ function generateEvents() {
       date: "2025-05-10",
       locationId: "9",
       curator: "Sofie P.",
-      artworkIds: ["KMSst641", "KMSst736"],
+      artworkIds: ["KMS167", "KMSst736"],
     },
     {
       id: "bdb7ccac-a0b8-457e-a6c1-e1fcae21d391",
@@ -193,7 +193,7 @@ function generateEvents() {
       date: "2025-05-06",
       locationId: "5",
       curator: "Sofie P.",
-      artworkIds: ["KMSst7", "KMSst734"],
+      artworkIds: ["KMS7599", "KMSst734"],
     },
     {
       id: "941fb907-0047-4afd-96a3-be7fb8a4f6e6",
@@ -203,7 +203,7 @@ function generateEvents() {
       date: "2025-05-13",
       locationId: "5",
       curator: "Sofie P.",
-      artworkIds: ["KMSst68"],
+      artworkIds: ["KKS1976-628"],
     },
     {
       id: "2b6d433b-bdfe-4db7-b1ab-b3aab2eb0a02",
@@ -213,7 +213,7 @@ function generateEvents() {
       date: "2025-05-08",
       locationId: "1",
       curator: "Mia M.",
-      artworkIds: ["KMSst64", "KMSst66"],
+      artworkIds: ["KKS12616", "KMSst66"],
     },
     {
       id: "eb4c1a77-08ff-4487-8ee9-fa537c47a7fd",
@@ -222,7 +222,7 @@ function generateEvents() {
       date: "2025-05-04",
       locationId: "9",
       curator: "Mia M.",
-      artworkIds: ["KMSst641", "KMSst79"],
+      artworkIds: ["KKS18383", "KMSst79"],
     },
     {
       id: "0a72bf6b-369f-4648-9b48-4171c7533c03",
@@ -232,7 +232,7 @@ function generateEvents() {
       date: "2025-05-07",
       locationId: "8",
       curator: "Anna K.",
-      artworkIds: ["KMSst736", "KMSst7"],
+      artworkIds: ["KKS15461", "KMSst7"],
     },
     {
       id: "2d874e7a-403c-47f4-b508-17de0a2aff3b",
@@ -241,7 +241,7 @@ function generateEvents() {
       date: "2025-05-07",
       locationId: "8",
       curator: "Mia M.",
-      artworkIds: ["KMSst68", "KMSst734"],
+      artworkIds: ["KKS15460", "KMSst734"],
     },
     {
       id: "906c0a86-aec8-4ed2-8ae4-17890c71bea7",
@@ -251,7 +251,7 @@ function generateEvents() {
       date: "2025-05-05",
       locationId: "3",
       curator: "Anna K.",
-      artworkIds: ["KMSst66"],
+      artworkIds: ["KMS747"],
     },
     {
       id: "6c2fb172-9694-4581-b5b9-c608b8d6659b",
@@ -260,7 +260,7 @@ function generateEvents() {
       date: "2025-05-11",
       locationId: "1",
       curator: "Anna K.",
-      artworkIds: ["KMSst79", "KMSst64"],
+      artworkIds: ["KMS450", "KMSst64"],
     },
     {
       id: "c9bfc621-2b4a-4b2e-93a5-79500f3516e2",
@@ -270,7 +270,7 @@ function generateEvents() {
       date: "2025-05-02",
       locationId: "3",
       curator: "Jonas B.",
-      artworkIds: ["KMSst641", "KMSst736"],
+      artworkIds: ["KMS4471", "KMSst736"],
     },
     {
       id: "f27653d0-6a73-43b5-a747-f3ec7b4c75b7",
@@ -280,7 +280,7 @@ function generateEvents() {
       date: "2025-05-15",
       locationId: "3",
       curator: "Sofie P.",
-      artworkIds: ["KMSst7", "KMSst68"],
+      artworkIds: ["KKS13716", "KMSst68"],
     },
     {
       id: "d28d20d4-bfbf-4f41-8151-794d8f6077f0",
@@ -290,7 +290,7 @@ function generateEvents() {
       date: "2025-05-06",
       locationId: "2",
       curator: "Mia M.",
-      artworkIds: ["KMSst734"],
+      artworkIds: ["KMSsp799"],
     },
     {
       id: "c21df3ba-bc74-40cc-8cc6-28c47b0f9bf3",
@@ -300,7 +300,7 @@ function generateEvents() {
       date: "2025-05-01",
       locationId: "2",
       curator: "Jonas B.",
-      artworkIds: ["KMSst66", "KMSst79"],
+      artworkIds: ["KMSsp796", "KMSst79"],
     },
     {
       id: "1eccfccd-2ddf-441b-996b-0cf0accb2ed9",
@@ -310,7 +310,7 @@ function generateEvents() {
       date: "2025-05-10",
       locationId: "10",
       curator: "Sofie P.",
-      artworkIds: ["KMSst641", "KMSst68"],
+      artworkIds: ["KMS8492", "KMSst68"],
     },
     {
       id: "478a1d30-7071-41fc-aec0-350a10af6b7e",
@@ -319,7 +319,7 @@ function generateEvents() {
       date: "2025-05-09",
       locationId: "2",
       curator: "Emil R.",
-      artworkIds: ["KMSst736", "KMSst64"],
+      artworkIds: ["KMS8487", "KMSst64"],
     },
     {
       id: "cb06aafb-c39f-4755-bde8-3a63157f25e8",
@@ -328,7 +328,7 @@ function generateEvents() {
       date: "2025-05-11",
       locationId: "1",
       curator: "Jonas B.",
-      artworkIds: ["KMSst7"],
+      artworkIds: ["KMS8496"],
     },
     {
       id: "687d760f-a6fa-4507-8298-55c6fec30f53",
@@ -338,7 +338,7 @@ function generateEvents() {
       date: "2025-05-15",
       locationId: "6",
       curator: "Lars N.",
-      artworkIds: ["KMSst79", "KMSst734"],
+      artworkIds: ["KMS939", "KMSst734"],
     },
     {
       id: "e15ad85e-e39d-4705-a431-15c36286bda6",
@@ -348,7 +348,7 @@ function generateEvents() {
       date: "2025-05-12",
       locationId: "5",
       curator: "Sofie P.",
-      artworkIds: ["KMSst66", "KMSst68"],
+      artworkIds: ["KMS1072", "KMSst68"],
     },
     {
       id: "740d7ece-7d42-45e6-9b2f-12e10790ee5e",
@@ -358,7 +358,7 @@ function generateEvents() {
       date: "2025-05-08",
       locationId: "3",
       curator: "Anna K.",
-      artworkIds: ["KMSst641", "KMSst736"],
+      artworkIds: ["KMS4147", "KMSst736"],
     },
     {
       id: "81d1af83-35bb-4dd4-84bd-e1a0d7bb99d9",
@@ -368,7 +368,7 @@ function generateEvents() {
       date: "2025-05-02",
       locationId: "9",
       curator: "Mia M.",
-      artworkIds: ["KMSst64", "KMSst7"],
+      artworkIds: ["KKS17776", "KMSst7"],
     },
     {
       id: "e8170025-ef91-4001-bda2-925807e3ecab",
@@ -378,7 +378,7 @@ function generateEvents() {
       date: "2025-05-04",
       locationId: "4",
       curator: "Emil R.",
-      artworkIds: ["KMSst68"],
+      artworkIds: ["KMS4242"],
     },
     {
       id: "4abf34a5-56a3-40bf-accb-c3d269c7d3af",
@@ -388,7 +388,7 @@ function generateEvents() {
       date: "2025-05-14",
       locationId: "4",
       curator: "Emil R.",
-      artworkIds: ["KMSst734", "KMSst79"],
+      artworkIds: ["KMS4614", "KMSst79"],
     },
     {
       id: "1f0e4fb1-d5b7-4b96-b8fe-236a3c1d4def",
@@ -398,7 +398,7 @@ function generateEvents() {
       date: "2025-05-09",
       locationId: "7",
       curator: "Sofie P.",
-      artworkIds: ["KMSst66", "KMSst641"],
+      artworkIds: ["KKSgb22415", "KMSst641"],
     },
   ];
 }
